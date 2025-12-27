@@ -31,7 +31,8 @@ OBSERVATIONS:
 <img width="2000" height="1413" alt="image" src="https://github.com/user-attachments/assets/a7e5e006-105c-4c3e-9afc-358ca3f75d75" />
 <img width="2000" height="1413" alt="image" src="https://github.com/user-attachments/assets/65c41757-3040-45b0-96d2-5ec8c21e3093" />
 
-REGULATION CHARACTERISTICS:
+LINE REGULATION CHARACTERISTICS:
+<img width="2000" height="1413" alt="image" src="https://github.com/user-attachments/assets/251b01e9-2fc5-42e3-92b7-45ba28657506" />
 
 V-I & REGULATION CHARACTERISTICS:
 
