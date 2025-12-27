@@ -33,6 +33,7 @@ OBSERVATIONS:
 
 LINE REGULATION CHARACTERISTICS:
 <img width="2000" height="1413" alt="image" src="https://github.com/user-attachments/assets/251b01e9-2fc5-42e3-92b7-45ba28657506" />
+<img width="2000" height="1413" alt="image" src="https://github.com/user-attachments/assets/b2191d27-3d18-4636-877f-9452d76a03f8" />
 
 LOAD REGULATION CHARACTERISTICS:
 <img width="2000" height="1413" alt="image" src="https://github.com/user-attachments/assets/d2f469f1-01b0-4cc0-a893-d215d8c20b36" />
